@@ -1,0 +1,16 @@
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\KandilliRasathanesi.exe.config
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\KandilliRasathanesi.exe
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\KandilliRasathanesi.pdb
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\Flurl.dll
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\Flurl.Http.dll
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\HtmlAgilityPack.dll
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\Flurl.xml
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\Flurl.Http.xml
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\obj\Debug\KandilliRasathanesi.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\obj\Debug\KandilliRasathanesi.csproj.CopyComplete
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\obj\Debug\KandilliRasathanesi.exe
+C:\Users\berke\source\repos\KandilliRasathanesi\KandilliRasathanesi\obj\Debug\KandilliRasathanesi.pdb
